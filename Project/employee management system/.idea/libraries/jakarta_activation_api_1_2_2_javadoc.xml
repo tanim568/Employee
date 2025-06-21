@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jakarta.activation-api-1.2.2-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Jar file/jakarta.activation-api-1.2.2-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/../Jar file/jakarta.activation-api-1.2.2-javadoc.jar!/" recursive="false" />
+  </library>
+</component>
